@@ -1,0 +1,30 @@
+  .ganga
+  {
+    width: 100%;
+    font-size : 23px;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(6, 11, 56);
+  }
+  .narmada
+  {
+   float:none;
+    background: rgb(228, 154, 18) ; 
+    border-radius: 20px; 
+    color: rgb(207, 43, 14);
+    box-shadow:5px 5px 5px rgb(171, 112, 10);
+    padding : 10px;
+  }
+  .kaveri
+  {
+    font-size: 18px ;
+  }
+  .krishna span {
+    white-space :initial;
+  }
+
+  .krishna
+  {
+    box-shadow:5px 5px 5px rgb(79, 7, 7);
+    font-size: 20px;
+  }
+ 
